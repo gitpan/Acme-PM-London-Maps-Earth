@@ -1,0 +1,6 @@
+Revision history for Perl extension Acme::PM::London::Maps::Earth.
+
+0.01  Fri Jun 22 19:44:58 2001
+	- original version; created by h2xs 1.21 with options
+		-Xcfn Acme::PM::London::Maps::Earth
+

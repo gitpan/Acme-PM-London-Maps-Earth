@@ -1,0 +1,27 @@
+Acme/PM/London/Maps/Earth version 0.01
+======================================
+
+This is Version 0.01 of a module to illustrate where in the world memebers of London Perl Mo[u]ngers live.
+
+AFAIK, other members of the group are preparing modules to map those members in alternate universes, orbiting the Earth and/or Neptune.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+On Windows, try 'nmake' rather than 'make'.  'nmake' can be downloaded from the Microsoft website.
+
+DEPENDENCIES
+
+This module requires GD.pm, from CPAN.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2001 Lee Goddard. All Rights Reserved.
+This module is supplied and may only be used under the same terms as Perl itself.
+

@@ -1,0 +1,314 @@
+$VAR1 = {
+          'LONDON' => [
+                        [
+                          219,
+                          173,
+                          'East Finchley (N2 8BH)',
+                          'Lee'
+                        ],
+                        [
+                          278,
+                          173,
+                          'Crouch End (N8 9QN)',
+                          'Alex David Shadrach Hooper'
+                        ],
+                        [
+                          300,
+                          293,
+                          '(E1 1NZ) (sad bastard who pays too much rent',
+                          'J Duncan'
+                        ],
+                        [
+                          319,
+                          302,
+                          '(E2 8BD)',
+                          'Leo Lapworth'
+                        ],
+                        [
+                          319,
+                          302,
+                          '(E2)',
+                          'Matthew Byng-Maddick'
+                        ],
+                        [
+                          459,
+                          298,
+                          '(E13 9JE)',
+                          'Roger Burton West'
+                        ],
+                        [
+                          303,
+                          345,
+                          '(SE1  5NQ)',
+                          'Andy Williams'
+                        ],
+                        [
+                          445,
+                          402,
+                          '(SE3 8NL)',
+                          'Merijn Broeren'
+                        ],
+                        [
+                          208,
+                          359,
+                          '(SW7  4DL)',
+                          'Ian Brayshaw'
+                        ],
+                        [
+                          358,
+                          352,
+                          '(SE16 2DZ)',
+                          'Simon Wistow'
+                        ],
+                        [
+                          347,
+                          493,
+                          '(SE26 5LN)',
+                          'Greg McCarroll'
+                        ],
+                        [
+                          173,
+                          333,
+                          '(W11 3EA)',
+                          'Leon Brocard'
+                        ],
+                        [
+                          269,
+                          296,
+                          '(W1D 2SH)',
+                          'Simon Wilcox'
+                        ]
+                      ],
+          'THE UK' => [
+					[
+                      111,
+                      310,
+					  'Belfast, NI (BT2 8ED)',
+					  '"Stray Toaster"'
+					],
+					[
+                      202,
+                      392,
+					  'Kidderminster (DY12 1RB)',
+					  'Robin Szemeti'
+					],
+                    [
+                      250,
+                      432,
+                      'London',
+                      'Loads of us'
+                    ],
+                    [
+                      245,
+                      436,
+                      'London',
+                      'Loads of us'
+                    ],
+                    [
+                      250,
+                      436,
+                      'London',
+                      'Loads of us'
+                    ],
+                    [
+                      245,
+                      432,
+                      'London',
+                      'Loads of us'
+                    ],
+                    [
+                      247,
+                      437,
+                      'Thornton Heath (CR7 8JH)',
+                      'David Cantrell'
+                    ],
+                    [
+                      240,
+                      439,
+                      'Tadworth (KT20 6NP)',
+                      'David Cantrell'
+                    ],
+                    [
+                      242,
+                      433,
+                      'Richmond (TW10 5AB)',
+                      'Ian Brayshaw'
+                    ],
+                    [
+                      237,
+                      419,
+                      'Bedford',
+                      'Cal'
+                    ],
+                    [
+                      112,
+                      309,
+                      'Belfast, NI (BT36 5XG)',
+                      'Andrew Wilson'
+                    ],
+                    [
+                      110,
+                      311,
+                      'Belfast, NI (BT4 2NG)',
+                      'Tony Bowden'
+                    ],
+                    [
+                      205,
+                      390,
+                      'Birmingham (B45 9DD)',
+                      'Barbie'
+                    ],
+                    [
+                      245,
+                      450,
+                      'Billinghurst (RH14 9RU)',
+                      'Natalie Ford'
+                    ],
+                    [
+                      243,
+                      459,
+                      'Bognor, not Aldwick near Chichester (PO21 2QF)',
+                      'Robert Thompson'
+                    ],
+                    [
+                      196,
+                      437,
+                      'Bradford on Avon, Wilts',
+                      'Aaron Trevena'
+                    ],
+                    [
+                      194,
+                      440,
+                      'Bath',
+                      'Dave Hodgkinson'
+                    ],
+                    [
+                      190,
+                      430,
+                      'Bristol',
+                      'Aaron Trevena'
+                    ],
+                    [
+                      242,
+                      429,
+                      'Hazlemere (HP15 7EN)',
+                      'Richard Clyne'
+                    ],
+                    [
+                      263,
+                      457,
+                      'Hastings (TN34 3DE)',
+                      'Jonathan Stone'
+                    ],
+                    [
+                      247,
+                      438,
+                      'Kingston Upon Thames (KT1 2SG)',
+                      'Simon Wilcox'
+                    ],
+                    [
+                      238,
+                      424,
+                      'Oxford',
+                      'Alex'
+                    ],
+                    [
+                      238,
+                      424,
+                      'Oxford',
+                      'Lathos according to Matthew Byng-Maddick'
+                    ],
+                    [
+                      247,
+                      399,
+                      'Peterborough (PE28 5XE)',
+                      'Andy Williams'
+                    ],
+                    [
+                      190,
+                      430,
+                      'Reading (RG1 7NY)',
+                      'Mark Blackman'
+                    ],
+                    [
+                      222,
+                      430,
+                      'Reading',
+                      'Peter Berlin'
+                    ],
+                    [
+                      220,
+                      358,
+                      'Sheffield (S10 2TG)',
+                      'Tony Kennick'
+                    ],
+                    [
+                      220,
+                      293,
+                      'Newcastle upon Tyne (NE2 2PQ)',
+                      'Chris Benson'
+                    ],
+                    [
+                      262,
+                      397,
+                      'Cambridge (CB4 2BE)',
+                      'Lucy McWilliam'
+                    ],
+                    [
+                      213,
+                      461,
+                      'Corfe Mullen, near Poole (BH21 3QY)',
+                      'Richard Proctor'
+                    ],
+                    [
+                      244,
+                      436,
+                      'Uxbridge (UB8 1YH)',
+                      'Richard Clyne'
+                    ],
+                    [
+                      182,
+                      358,
+                      'Not in Liverpool (BT4 2NG)',
+                      'Tony Bowden'
+                    ]
+                  ],
+          'THE WORLD' => [
+                       [
+                         334,
+                         138,
+                         'London',
+                         'Loads of us'
+                       ],
+                       [
+                         188,
+                         170,
+                         'New York NY, USA',
+                         'David H Alder'
+                       ],
+                       [
+                         194,
+                         165,
+                         'Boston MA, USA',
+                         'Chris Devers'
+                       ],
+                       [
+                         362,
+                         150,
+                         'Vienna, New Nazi Land',
+                         'Marcel'
+                       ],
+                       [
+                         349,
+                         153,
+                         'Zurich, Switerlan',
+                         'Paul Johnson'
+                       ],
+                       [
+                         352,
+                         133,
+                         'Hamburg, Germany',
+                         'Philip Newton'
+                       ]
+                     ]
+        };
